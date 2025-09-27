@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Motwani</h1>
 <h3 align="center">SDET | Passionate about Building Reliable Software through Automation</h3>
-<p align="center"><em>Specializing in Robot Framework, Selenium, Pytest, and CI/CD pipelines</em></p>
+
 
 ---
 
