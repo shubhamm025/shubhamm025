@@ -27,7 +27,7 @@ Currently exploring **performance and security testing** to broaden my testing t
 |---------|-------------|------------|
 | [End-to-End Web Automation Framework](https://github.com/shubhamm025/web-automation-framework) | Scalable Selenium+Pytest framework with POM, data-driven tests, and Allure reporting | Python, Pytest, Selenium, **Robot Framework**, Allure |
 | [REST API Automation Suite](https://github.com/shubhamm025/api-automation-suite) | Comprehensive API testing suite with schema validation and performance benchmarks | Python, Requests, Pytest |
-| [Hybrid Robot Framework Suite](https://github.com/shubhamm025/robotframework-hybrid) | Keyword-driven + POM hybrid test suite for complex UI flows | **Robot Framework**, Selenium, Python |
+| [Hybrid Robot Framework Suite](https://github.com/shubhamm025/robotframework-hybrid) | Keyword-driven + POM hybrid test suite for complex UI flows | **Robot Framework**,**Bamboo**, Selenium, Python |
 
 ---
 
